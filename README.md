@@ -1,3 +1,3 @@
 # UMS
 University Management System 
-A system analysis project for a service that is fully diagrammed for all SDLC phases.
+Documentation of University Management System project through three SDLC phases: planning, analysis, and design.
